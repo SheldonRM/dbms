@@ -1,0 +1,18 @@
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\bin\Debug\DBMS Project.exe.config
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\bin\Debug\DBMS Project.exe
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\bin\Debug\DBMS Project.pdb
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS Project.csprojAssemblyReference.cache
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.Form1.resources
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.Properties.Resources.resources
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS Project.csproj.GenerateResource.cache
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS Project.csproj.CoreCompileInputs.cache
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS Project.exe
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS Project.pdb
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\bin\Debug\Database.mdf
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\bin\Debug\Database_log.ldf
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.AppBody.resources
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.Patients_UserControl.resources
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.Records_UserControl.resources
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.Staff_UserControl.resources
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.Settings_UserControl.resources
+C:\Users\Sheldon\source\repos\DBMS Project\DBMS Project\obj\Debug\DBMS_Project.About_UserControl.resources
